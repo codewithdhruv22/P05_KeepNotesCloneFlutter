@@ -1,0 +1,2 @@
+# P05_KeepNotesCloneFlutter
+In this repository you will code of my "Google Keep Notes Clone In Flutter" of flutter. This code is uploaded from my "Flutter App Development" YouTube Tutorial on my channel "Code With Dhruv". Every file is related with a particular video and explained there. If you want full source code then you can check my "P05_KeepNotesCloneFlutter_Com" repository there you can find whole source code of this project.
